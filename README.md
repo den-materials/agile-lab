@@ -2,7 +2,7 @@
 
 ## Why is this important?
 
-This lab is important because:
+__This lab is important because:__
 
 Well-planned projects are easier to implment. By spending some time working on how you'll work through a 
 project you can often finish a project easier.
@@ -13,12 +13,12 @@ __After this workshop, developers should have__
 
 * **Completed** stories outlining the user stories to complete your project
 * **Completed** wireframe of your project.
-* **Prioritized** stories
+* **Prioritized** stories for your project.
 * **Created** a README to help outline the technical aspects of the project.
 
 ## User Stories 
 ### Sign up for Trello
-1. Go to (www.trello.com)[www.trello.com].
+1. Go to [www.trello.com](www.trello.com).
 2. Click ``Get Started``.
 3. Enter in a username, email, and password
 4. Click create a new board
@@ -26,14 +26,12 @@ __After this workshop, developers should have__
 
 ### Write at least 5 user stories
 Creating a kanban Trello board.
+
 1. Click on the Add a list field.
 2. Enter "To Do"
 3. Add another list for "Doing" and "Done"
 4. Click ``Add a card`` in the "To Do" list 
-5. Enter your first story in a 
-```
-As a <User> I would like to <feature> in order to <purpose> 
-```
+5. Enter your first story in a ``As a <User> I would like to <feature> in order to <purpose>`` format.
 6. Add a checklist to story by clicking the pencil icon and then the checklist button
 6. Add any specific task to the list like creating a button in HTML or adding an event listener.
 7. __Optional__ Give the story a number of points by using a label.
@@ -41,7 +39,7 @@ As a <User> I would like to <feature> in order to <purpose>
 Take 15 minutes and create at least 5 user stories for your project. Remember that smaller stories are
 better in general than more complicated stories.
 
-Don't worry about order yet. Worry just about defining the features you plan to work on. Also feel free 
+Don't worry about order yet, just about defining the features you plan to work on. Also feel free 
 to include stretch goals in the stories as well.
 
 Tips: 
@@ -54,7 +52,8 @@ Take 4 minutes to discuss with your partner any feedback on their user stories.
 
 ## Wireframes
 Take 8 minutes to stetch out a simple wireframe of your app. Remember it doesn't matter how good the 
-wireframe looks it matters that it catches all the major relevant features.
+wireframe looks it matters that it catches all the major relevant features. You can draw your wireframe 
+on paper, create a Word or PowerPoint document.
 
 Take 2 minutes to review your wireframe. Does every button or input map to a user story? Do you need to 
 add new stories?
