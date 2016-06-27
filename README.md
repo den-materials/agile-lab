@@ -34,13 +34,14 @@ Creating a kanban Trello board.
 5. Enter your first story in a ``As a <User> I would like to <feature> in order to <purpose>`` format.
 6. Add a checklist to story by clicking the pencil icon and then the checklist button
 6. Add any specific task to the list like creating a button in HTML or adding an event listener.
-7. __Optional__ Give the story a number of points by using a label.
+7. Give the story a number of points by using a label.
 
 Take 15 minutes and create at least 5 user stories for your project. Remember that smaller stories are
 better in general than more complicated stories.
 
 Don't worry about order yet, just about defining the features you plan to work on. Also feel free 
-to include stretch goals in the stories as well.
+to include stretch goals in the stories as well. Also don't worry about getting the perfect size, rough 
+sizes are what we're looking for at this point.
 
 Tips: 
 You can reorder your lists by dragging and dropping individual cards.
