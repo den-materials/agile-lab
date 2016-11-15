@@ -19,7 +19,7 @@ __After this workshop, developers should have__
 * **Created** a README to help outline the technical aspects of their project.
 
 <!--10:35 5 minutes -->
-
+<!-- This is already done from last class -->
 ## User Stories 
 ### Sign up for Trello
 1. Go to [www.trello.com](www.trello.com).
@@ -72,7 +72,7 @@ add new stories?
 <!--11:15 5 minutes -->
 
 ## Prioritize Stories
-Take 5 minutes to prioritize your stories. If you added a new story based on your wireframes just make 
+Take a few minutes to prioritize your stories. If you added a new story based on your wireframes just make 
 sure at least your title is included on a story card. Put the first story you plan to work on top of the 
 list and then the next story you plan to do under it.
 
