@@ -1,4 +1,4 @@
-<!-- Didn't get to this till 10:45 -->
+<!-- Didn't get to this till 10:45, otherwise timing pretty spot-on -->
 
 # Agile Practices Lab
 
@@ -61,24 +61,24 @@ describe features or just technical tasks?
 
 Take a few minutes to discuss with your partner any feedback on their user stories.
 
-<!--11:05 10 minutes -->
+<!--11:05 15 minutes -->
 
 ## Wireframes
-Take 8 minutes to sketch out a simple wireframe of your app. Remember, it doesn't matter how good the 
+Take 10 minutes to sketch out a simple wireframe of your app. Remember, it doesn't matter how good the 
 wireframe looks. It matters that it catches all the major relevant features. You can draw your wireframe 
 on paper, on the whiteboard, or use a wireframing tool mentioned in [the previous lesson](https://github.com/den-wdi-2/software-development-best-practices).
 
-Take 2 minutes to review your wireframe. Does every button or input map to a user story? Do you need to 
+Take a few minutes to review your wireframe. Does every button or input map to a user story? Do you need to 
 add new stories?
 
-<!--11:15 5 minutes -->
+<!--11:20 5 minutes -->
 
 ## Prioritize Stories
 Take a few minutes to prioritize your stories. If you added a new story based on your wireframes just make 
 sure at least your title is included on a story card. Put the first story you plan to work on top of the 
 list and then the next story you plan to do under it.
 
-<!--11:20 5 minutes -->
+<!--11:25 5 minutes -->
 
 ## Keeping Track 
 1. Create a Github repo for your project
