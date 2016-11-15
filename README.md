@@ -1,3 +1,5 @@
+<!-- Didn't get to this till 10:45 -->
+
 # Agile Practices Lab
 
 <!--10:30 5 minutes -->
@@ -80,7 +82,7 @@ list and then the next story you plan to do under it.
 
 ## Keeping Track 
 1. Create a Github repo for your project
-2. Create a README file for your repo. (The GitHub webpage allows you to use a GUI to create a )
+2. Create a README file for your repo. (The GitHub webpage allows you to use a GUI to create one.)
 3. Add a link to your Trello board in the README
 4. Add a picture of your Wireframe to your README
 
