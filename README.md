@@ -60,19 +60,21 @@ sizes are what we're looking for at this point.
 Tips: 
 You can reorder your lists by dragging and dropping individual cards.
 
-<!--10:55 10 minutes -->
-
-Take a few minutes to review your partner's user story list. Do the stories make sense? Do the stories 
-describe features or just technical tasks?
-
-Take a few minutes to discuss with your partner any feedback on their user stories.
-
-<!--11:05 5 minutes -->
+<!--Actually 11:14 -->
+<!--10:55 5 minutes -->
 
 ## Prioritize Stories
 Take a few minutes to prioritize your stories. If you added a new story based on your wireframes just make 
 sure at least your title is included on a story card. Put the first story you plan to work on top of the 
 list and then the next story you plan to do under it.
+
+<!--Actually 11:20 -->
+<!--11:00 10 minutes -->
+
+Take a few minutes to review your partner's user story list. Do the stories make sense? Do the stories 
+describe features or just technical tasks?
+
+Take a few minutes to discuss with your partner any feedback on their user stories.
 
 <!--11:10 15 minutes -->
 
