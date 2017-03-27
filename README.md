@@ -100,6 +100,8 @@ add new stories?
 Project organizaton is often one of the key ways software organization can become more efficent. 
 Learning how to think in common agile processes helps prepare you to work on teams in the future.
 
+<!--Actually 11:45 -->
+
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
 All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
