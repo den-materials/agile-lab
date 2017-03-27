@@ -68,7 +68,7 @@ Take a few minutes to prioritize your stories. If you added a new story based on
 sure at least your title is included on a story card. Put the first story you plan to work on top of the 
 list and then the next story you plan to do under it.
 
-<!--Actually 11:20 -->
+<!--Actually 11:18 -->
 <!--11:00 10 minutes -->
 
 Take a few minutes to review your partner's user story list. Do the stories make sense? Do the stories 
@@ -76,16 +76,18 @@ describe features or just technical tasks?
 
 Take a few minutes to discuss with your partner any feedback on their user stories.
 
+<!--Actually 11:28 -->
 <!--11:10 15 minutes -->
 
 ## Wireframes
-Take 10 minutes to sketch out a simple wireframe of your app. Remember, it doesn't matter how good the 
+Take a few minutes to re-sketch your simple wireframe of your app. Remember, it doesn't matter how good the 
 wireframe looks. It matters that it catches all the major relevant features. You can draw your wireframe 
 on paper, on the whiteboard, or use a wireframing tool mentioned in [the previous lesson](https://github.com/den-wdi-2/software-development-best-practices).
 
 Take a few minutes to review your wireframe. Does every button or input map to a user story? Do you need to 
 add new stories?
 
+<!--Actually 11:35 -->
 <!--11:25 5 minutes -->
 
 ## Keeping Track 
