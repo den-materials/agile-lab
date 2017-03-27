@@ -2,13 +2,14 @@
 
 # Agile Practices Lab
 
+<!--Second time 10:45, but didn't do tic-tac-toe priority and sizing yet, so added in right after opening -->
 <!--10:30 5 minutes -->
 
 ## Why is this important?
 
 __This lab is important because:__
 
-Well-planned projects are easier to implment. By spending some time working on how you'll work through a 
+Well-planned projects are easier to implement. By spending some time working on how you'll work through a 
 project you can often finish a project easier.
 
 ## What are the objectives 
@@ -20,8 +21,12 @@ __After this workshop, developers should have__
 * **Prioritized** stories for their project.
 * **Created** a README to help outline the technical aspects of their project.
 
+<!--10:47 -->
+<!--Doing tic-tac-toe stories here -->
+<!--10:58 after tic-tac-toe-->
+
 <!--10:35 5 minutes -->
-<!-- This is already done from last class -->
+<!-- This is already done from last class, except for "make board public" -->
 ## User Stories 
 ### Sign up for Trello
 1. Go to [www.trello.com](www.trello.com).
@@ -30,6 +35,7 @@ __After this workshop, developers should have__
 4. Click `create a new board`.
 5. Make the board public by clicking on the lock icon to the right of the title.
 
+<!--Actually 11:00-->
 <!--10:40 15 minutes -->
 
 ### Write at least 5 user stories
@@ -39,7 +45,7 @@ Creating a kanban Trello board.
 2. Enter "To Do"
 3. Add another list for "Doing" and "Done"
 4. Click ``Add a card`` in the "To Do" list 
-5. Enter your first story in an ``As a <User> I would like to <feature> in order to <purpose>`` format.
+5. Enter your first story in an ``A <User> can <feature> so that <purpose>`` format.
 6. Add a checklist to the story by clicking the pencil icon and then the checklist button
 6. Add any specific task to the list like creating a button in HTML or adding an event listener.
 7. Give the story a number of points by using a label.
@@ -61,7 +67,14 @@ describe features or just technical tasks?
 
 Take a few minutes to discuss with your partner any feedback on their user stories.
 
-<!--11:05 15 minutes -->
+<!--11:05 5 minutes -->
+
+## Prioritize Stories
+Take a few minutes to prioritize your stories. If you added a new story based on your wireframes just make 
+sure at least your title is included on a story card. Put the first story you plan to work on top of the 
+list and then the next story you plan to do under it.
+
+<!--11:10 15 minutes -->
 
 ## Wireframes
 Take 10 minutes to sketch out a simple wireframe of your app. Remember, it doesn't matter how good the 
@@ -70,13 +83,6 @@ on paper, on the whiteboard, or use a wireframing tool mentioned in [the previou
 
 Take a few minutes to review your wireframe. Does every button or input map to a user story? Do you need to 
 add new stories?
-
-<!--11:20 5 minutes -->
-
-## Prioritize Stories
-Take a few minutes to prioritize your stories. If you added a new story based on your wireframes just make 
-sure at least your title is included on a story card. Put the first story you plan to work on top of the 
-list and then the next story you plan to do under it.
 
 <!--11:25 5 minutes -->
 
