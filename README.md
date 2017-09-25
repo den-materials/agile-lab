@@ -3,6 +3,7 @@
 # Agile Practices Lab
 
 <!--Second time 10:45, but didn't do tic-tac-toe priority and sizing yet, so added in right after opening -->
+<!--WDI5 10:35 -->
 <!--10:30 5 minutes -->
 
 ## Why is this important?
@@ -60,6 +61,7 @@ sizes are what we're looking for at this point.
 Tips: 
 You can reorder your lists by dragging and dropping individual cards.
 
+<!--WDI5 10:59 -->
 <!--Actually 11:14 -->
 <!--10:55 5 minutes -->
 
@@ -77,12 +79,13 @@ describe features or just technical tasks?
 Take a few minutes to discuss with your partner any feedback on their user stories.
 
 <!--Actually 11:28 -->
+<!--11:15 WDI5, discussing with partner takes a while-->
 <!--11:10 15 minutes -->
 
 ## Wireframes
 Take a few minutes to re-sketch your simple wireframe of your app. Remember, it doesn't matter how good the 
 wireframe looks. It matters that it catches all the major relevant features. You can draw your wireframe 
-on paper, on the whiteboard, or use a wireframing tool mentioned in [the previous lesson](https://github.com/den-wdi-2/software-development-best-practices).
+on paper, on the whiteboard, or use a wireframing tool mentioned in [the previous lesson](https://github.com/den-materials/software-development-best-practices).
 
 Take a few minutes to review your wireframe. Does every button or input map to a user story? Do you need to 
 add new stories?
@@ -101,6 +104,7 @@ Project organizaton is often one of the key ways software organization can becom
 Learning how to think in common agile processes helps prepare you to work on teams in the future.
 
 <!--Actually 11:45 -->
+<!--WDI5 ~11:30, giving devs till 12 to prep for their first standup -->
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
