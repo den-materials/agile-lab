@@ -30,7 +30,7 @@ __After this workshop, developers should have__
 <!-- This is already done from last class, except for "make board public" -->
 ## User Stories 
 ### Sign up for Trello
-1. Go to [www.trello.com](www.trello.com).
+1. Go to [www.trello.com](https://www.trello.com).
 2. Click ``Get Started``.
 3. Enter in a username, email, and password.
 4. Click `create a new board`.
@@ -47,7 +47,7 @@ Creating a kanban Trello board.
 3. Add another list for "Doing" and "Done"
 4. Click ``Add a card`` in the "To Do" list 
 5. Enter your first story in an ``A <User> can <feature> so that <purpose>`` format.
-6. Add a checklist to the story by clicking the pencil icon and then the checklist button
+6. Add a checklist to the story by clicking the card and then the checklist button
 6. Add any specific task to the list like creating a button in HTML or adding an event listener.
 7. Give the story a number of points by using a label.
 
